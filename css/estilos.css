@@ -1,0 +1,13 @@
+textarea{
+    resize:none;
+}
+.fotoItem{
+    width: 150px;
+    height: 200px;
+    float: left;
+    text-align: center;
+    margin-right: 10px;
+}
+.fotoItem img{
+    width: 150px;
+}
